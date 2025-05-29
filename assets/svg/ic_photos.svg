@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="photos" transform="translate(-0.054 -0.182)">
+    <g id="Rectangle_3987" data-name="Rectangle 3987" transform="translate(0.054 0.182)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <g id="Icon_ionic-ios-image" data-name="Icon ionic-ios-image" transform="translate(20.445 20.445) rotate(180)">
+      <path id="Path_9447" data-name="Path 9447" d="M.246,0H8.593a.244.244,0,0,1,.2.385L4.614,7.1a.241.241,0,0,1-.4,0L.044.385A.245.245,0,0,1,.246,0Z" transform="translate(2.582 6.64)" fill="#333"/>
+      <path id="Path_9448" data-name="Path 9448" d="M.043,2.543,1.575.105A.237.237,0,0,1,1.772,0H4.1a.244.244,0,0,1,.2.385L1.6,4.224a.241.241,0,0,1-.4,0L.039,2.819A.252.252,0,0,1,.043,2.543Z" transform="translate(11.28 6.636)" fill="#333"/>
+      <path id="Path_9449" data-name="Path 9449" d="M1.35.007A1.225,1.225,0,1,1,.006,1.35,1.23,1.23,0,0,1,1.35.007Z" transform="translate(11.917 12.954)" fill="#333"/>
+      <path id="Path_9450" data-name="Path 9450" d="M16.808,18.208H1.4a1.4,1.4,0,0,1-1.4-1.4V1.4A1.4,1.4,0,0,1,1.4,0H16.808a1.4,1.4,0,0,1,1.4,1.4V16.808A1.4,1.4,0,0,1,16.808,18.208ZM16.689,5.953a.351.351,0,0,0-.35-.35H1.869a.351.351,0,0,0-.35.35V16.339a.351.351,0,0,0,.35.35H16.344a.351.351,0,0,0,.35-.35V5.953Z" transform="translate(0 0)" fill="#333"/>
+    </g>
+  </g>
+</svg>

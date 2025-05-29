@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="social_wall_menu" transform="translate(-0.038 0.696)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="54" height="54" transform="translate(0.038 -0.696)" fill="#f79622" opacity="0"/>
+    <g id="Group_5161" data-name="Group 5161" transform="translate(5.038 10.266)">
+      <g id="Group_5160" data-name="Group 5160">
+        <path id="Path_10353" data-name="Path 10353" d="M423.972,108.3h25.365a.779.779,0,0,1,.83.715v10.007a.779.779,0,0,1-.83.715h-9.132v5.348a.854.854,0,0,1-1.434.49l-6.394-5.838H407.83a.779.779,0,0,1-.83-.715V109.01a.779.779,0,0,1,.83-.715H415.3v1.43H408.66V118.3h24.074a.9.9,0,0,1,.6.224l5.207,4.753v-4.262a.779.779,0,0,1,.83-.715h9.131v-8.577H422.359ZM407,94.715a.779.779,0,0,1,.83-.715h41.507a.779.779,0,0,1,.83.715v10.007a.779.779,0,0,1-.83.715H424.79l-6.394,5.838a.854.854,0,0,1-1.434-.49v-5.348H407.83a.779.779,0,0,1-.83-.715Zm1.66.715h39.846v8.577H424.433a.9.9,0,0,0-.6.224l-5.207,4.753v-4.262a.779.779,0,0,0-.83-.715H408.66Z" transform="translate(-407 -94)" fill="#333" stroke="#333" stroke-width="0.5" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

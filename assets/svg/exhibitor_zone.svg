@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.592" height="47.65" viewBox="0 0 47.592 47.65">
+  <g id="exhibitor_zone" transform="translate(0 1)">
+    <g id="Group_2061" data-name="Group 2061">
+      <path id="Path_9958" data-name="Path 9958" d="M7979.667,400.661s.158,3.9,3.958,4.52,6.83-3.308,6.83-3.308a9.1,9.1,0,0,0,5.772,2.518,6.587,6.587,0,0,0,5.117-2.518s1.707,2.9,6.539,2.518a7.722,7.722,0,0,0,4.5-2.687s2.367,4.1,6.58,3.477a5.059,5.059,0,0,0,4.467-4.52l-7.952-12.475h-28.114Z" transform="translate(-7977.684 -388.186)" fill="none" stroke="#48428e" stroke-width="2"/>
+      <rect id="Rectangle_4243" data-name="Rectangle 4243" width="3.462" height="17.112" transform="translate(11.154 14.198)" fill="#48428e"/>
+      <rect id="Rectangle_4244" data-name="Rectangle 4244" width="3.462" height="17.112" transform="translate(32.976 14.198)" fill="#48428e"/>
+      <g id="Rectangle_4245" data-name="Rectangle 4245" transform="translate(0 30.047)" fill="none" stroke="#48428e" stroke-width="2">
+        <rect width="47.592" height="16.603" rx="3" stroke="none"/>
+        <rect x="1" y="1" width="45.592" height="14.603" rx="2" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

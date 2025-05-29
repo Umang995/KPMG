@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579380204834",
+    "firebase_url": "https://dreamcast-event-app-2024-d3244-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dreamcast-event-app-2024-d3244",
+    "storage_bucket": "dreamcast-event-app-2024-d3244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579380204834:android:07748c92fdcc635d2d817b",
+        "android_client_info": {
+          "package_name": "com.dreamcast.eventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzet3p5B5qpg5FPJX2nMkt_JmsxTIFdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

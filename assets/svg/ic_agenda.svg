@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="agenda_menu" transform="translate(-1.09 5.876)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="54" height="54" transform="translate(1.09 -5.876)" fill="#f79622" opacity="0"/>
+    <g id="Group_19884" data-name="Group 19884" transform="translate(4.618 -0.875)">
+      <path id="Path_10430" data-name="Path 10430" d="M17.722,38.778h-9.5A4.222,4.222,0,0,1,4,34.556V9.222A4.222,4.222,0,0,1,8.222,5H33.556a4.222,4.222,0,0,1,4.222,4.222v6.333" transform="translate(0 2.222)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+      <path id="Path_10431" data-name="Path 10431" d="M16,3v8.444" transform="translate(13.333)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+      <path id="Path_10432" data-name="Path 10432" d="M8,3v8.444" transform="translate(4.444)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+      <path id="Path_10433" data-name="Path 10433" d="M4,11H25.111" transform="translate(0 8.889)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+      <path id="Path_10434" data-name="Path 10434" d="M22.444,22.444m-8.444,0A8.444,8.444,0,1,0,22.444,14,8.444,8.444,0,0,0,14,22.444" transform="translate(11.111 12.222)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+      <path id="Path_10435" data-name="Path 10435" d="M18,16.5v3.167l1.056,1.056" transform="translate(15.556 15)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="emoji_5_sel" transform="translate(1 1)">
+    <circle id="Ellipse_46" data-name="Ellipse 46" cx="17" cy="17" r="17" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Group_131" data-name="Group 131" transform="translate(4.331 6.517)">
+      <g id="Group_130" data-name="Group 130" transform="translate(3.038 11.028)">
+        <path id="Path_324" data-name="Path 324" d="M344.657,110.693a71.6,71.6,0,0,1,19.258,0s.334,8.571-9.629,8.571S344.657,110.693,344.657,110.693Z" transform="translate(-344.655 -110.05)" fill="#8a8a8e"/>
+      </g>
+      <path id="Path_326" data-name="Path 326" d="M347.962,97.149a2.429,2.429,0,0,0-1.767,1.967,2.426,2.426,0,0,0-2.495-.875,2.16,2.16,0,0,0-1.585,2.677c.424,1.657,2.564,2.523,5.657,4.355,1.832-3.094,3.292-4.881,2.867-6.538a2.16,2.16,0,0,0-2.677-1.585Z" transform="translate(-341.226 -97.076)" fill="#8a8a8e" fill-rule="evenodd"/>
+      <path id="Path_327" data-name="Path 327" d="M362.221,97.149a2.16,2.16,0,0,0-2.677,1.585c-.425,1.658,1.035,3.444,2.867,6.538,3.093-1.832,5.233-2.7,5.657-4.355a2.16,2.16,0,0,0-1.585-2.677,2.426,2.426,0,0,0-2.495.875,2.428,2.428,0,0,0-1.767-1.967Z" transform="translate(-343.84 -97.076)" fill="#8a8a8e" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

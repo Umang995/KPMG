@@ -1,0 +1,12 @@
+<svg id="Check" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M17.293.293a1,1,0,0,1,1.414,1.414l-12,12a1,1,0,0,1-1.414,0l-5-5A1,1,0,0,1,1.707,7.293L6,11.586Z" transform="translate(6 8)" fill="#1877f2"/>
+    </clipPath>
+  </defs>
+  <path id="Grid" d="M0,0H30V30H0Z" fill="none"/>
+  <path id="Mask-2" data-name="Mask" d="M17.293.293a1,1,0,0,1,1.414,1.414l-12,12a1,1,0,0,1-1.414,0l-5-5A1,1,0,0,1,1.707,7.293L6,11.586Z" transform="translate(6 8)" fill="#1877f2"/>
+  <g id="Icon_Check" data-name="Icon/Check" clip-path="url(#clip-path)">
+    <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H30V30H0Z" fill="#1877f2"/>
+  </g>
+</svg>

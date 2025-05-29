@@ -1,0 +1,8 @@
+<svg id="add_to_phone" xmlns="http://www.w3.org/2000/svg" width="20" height="19.302" viewBox="0 0 20 19.302">
+  <g id="Group_5337" data-name="Group 5337">
+    <path id="Path_10389" data-name="Path 10389" d="M27.962,38.3H21.425A3.425,3.425,0,0,1,18,34.878V22.425A3.425,3.425,0,0,1,21.425,19h6.849A3.425,3.425,0,0,1,31.7,22.425v7.783H29.83V22.425a1.557,1.557,0,0,0-1.557-1.557H21.425a1.557,1.557,0,0,0-1.557,1.557V34.878a1.557,1.557,0,0,0,1.557,1.557h6.538Z" transform="translate(-18 -19)" fill="#333"/>
+    <path id="Path_10390" data-name="Path 10390" d="M35.471,25.868H33.51a.934.934,0,0,1-.834-.517L32,24h4.981l-.676,1.351A.934.934,0,0,1,35.471,25.868Z" transform="translate(-27.641 -22.443)" fill="#333"/>
+  </g>
+  <path id="Path_10391" data-name="Path 10391" d="M62.226,67.226H56.934A.934.934,0,0,1,56,66.293V61h1.868v4.359h4.359Z" transform="translate(-44.17 -47.924)" fill="#333"/>
+  <rect id="Rectangle_5262" data-name="Rectangle 5262" width="8.471" height="1.868" transform="translate(12.689 17.124) rotate(-45)" fill="#333"/>
+</svg>

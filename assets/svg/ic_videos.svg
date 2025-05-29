@@ -1,0 +1,10 @@
+<svg id="videos" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Rectangle_3988" data-name="Rectangle 3988" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="26" height="26" stroke="none"/>
+    <rect x="0.5" y="0.5" width="25" height="25" fill="none"/>
+  </g>
+  <g id="Icon_ionic-ios-image" data-name="Icon ionic-ios-image" transform="translate(24.099 23.947) rotate(180)">
+    <path id="Path_9450" data-name="Path 9450" d="M19.864,21.519H1.655A1.654,1.654,0,0,1,0,19.864V1.655A1.654,1.654,0,0,1,1.655,0H19.864a1.654,1.654,0,0,1,1.655,1.655V19.864A1.654,1.654,0,0,1,19.864,21.519Zm-.14-14.484a.415.415,0,0,0-.414-.414H2.209a.415.415,0,0,0-.414.414V19.31a.415.415,0,0,0,.414.414H19.315a.415.415,0,0,0,.414-.414V7.035Z" transform="translate(0 0)" fill="#8a8a8e"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M4,0,8,6H0Z" transform="translate(7.098 16.947) rotate(-90)" fill="#8a8a8e"/>
+  </g>
+</svg>

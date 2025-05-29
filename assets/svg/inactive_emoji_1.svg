@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="emoji1" transform="translate(-64.248 -278.291)">
+    <g id="Group_98" data-name="Group 98" transform="translate(65.248 279.291)">
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="17" cy="17" r="17" fill="none" stroke="#8a8a8e" stroke-width="2"/>
+    </g>
+    <g id="Group_20115" data-name="Group 20115" transform="translate(69.58 295.169)">
+      <path id="Path_316" data-name="Path 316" d="M80.208,382.915s3.117-2.611,7.414,0" transform="translate(-71.247 -370.871)" fill="none" stroke="#8a8a8e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.659"/>
+      <g id="Group_117" data-name="Group 117" transform="translate(4.279)">
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="1.612" cy="2.641" rx="1.612" ry="2.641" transform="translate(0.403 1.148)" fill="#8a8a8e"/>
+        <line id="Line_40" data-name="Line 40" x2="4.123" y2="2.844" fill="none" stroke="#8a8a8e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.659"/>
+      </g>
+      <g id="Group_118" data-name="Group 118" transform="translate(16.482)">
+        <path id="Path_317" data-name="Path 317" d="M93.4,372.943c0,1.459-.721,2.641-1.612,2.641s-1.612-1.182-1.612-2.641.722-2.642,1.612-2.642S93.4,371.483,93.4,372.943Z" transform="translate(-89.223 -369.153)" fill="#8a8a8e"/>
+        <line id="Line_41" data-name="Line 41" x1="4.123" y2="2.844" fill="none" stroke="#8a8a8e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.659"/>
+      </g>
+    </g>
+  </g>
+</svg>

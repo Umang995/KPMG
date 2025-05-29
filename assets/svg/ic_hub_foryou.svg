@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="floor_plan_profile" data-name="floor plan_profile" transform="translate(-2.313 5.626)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="50" height="50" transform="translate(2.313 -5.626)" fill="#f79622" opacity="0"/>
+    <g id="favourites_icon" transform="translate(15.313 3.913)">
+      <path id="favourites_icon-2" data-name="favourites_icon" d="M220-789.076v-27.586a3.222,3.222,0,0,1,.969-2.368,3.222,3.222,0,0,1,2.368-.969h17.325a3.222,3.222,0,0,1,2.368.969,3.222,3.222,0,0,1,.969,2.368v27.586l-12-5.148Zm2.769-4.246L232-797.291l9.231,3.969v-23.34a.543.543,0,0,0-.178-.391.543.543,0,0,0-.391-.178H223.338a.543.543,0,0,0-.391.178.543.543,0,0,0-.177.391Zm0-23.908h0Z" transform="translate(-220.001 819.999)" fill="#333"/>
+    </g>
+  </g>
+</svg>

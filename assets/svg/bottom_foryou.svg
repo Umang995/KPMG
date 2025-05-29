@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="QR" transform="translate(-28.411 -681.23)">
+    <rect id="Rectangle_3952" data-name="Rectangle 3952" width="32" height="32" transform="translate(28.411 681.23)" fill="#8087b7" opacity="0"/>
+    <g id="for_you" transform="translate(34.411 684.23)">
+      <path id="Path_10423" data-name="Path 10423" d="M32.447,62.894a.853.853,0,0,1-.846-.846V55.275a2.543,2.543,0,0,0-2.539-2.539H17.775a2.543,2.543,0,0,0-2.539,2.539v6.772a.846.846,0,0,1-1.693,0V55.275a4.234,4.234,0,0,1,4.232-4.232H29.062a4.234,4.234,0,0,1,4.232,4.232v6.772a.853.853,0,0,1-.846.846Z" transform="translate(-13.543 -36.894)" fill="#bababa" stroke="#bababa" stroke-width="0.5"/>
+      <path id="Path_10424" data-name="Path 10424" d="M34.05,17.058a5.925,5.925,0,1,1,5.925-5.925A5.925,5.925,0,0,1,34.05,17.058Zm0-10.158a4.232,4.232,0,1,0,4.232,4.232A4.234,4.234,0,0,0,34.05,6.9Z" transform="translate(-24.175 -5.207)" fill="#bababa" stroke="#bababa" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

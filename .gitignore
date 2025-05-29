@@ -1,0 +1,62 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+android/.gradle/
+android/app/build/
+android/gradle/
+android/gradle-wrapper.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/.gitignore
+
+# macOS related
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Pods/
+macos/Podfile.lock
+macos/.symlinks/
+
+# Linux related
+linux/Flutter/Flutter.framework
+linux/Flutter/Flutter.podspec
+linux/Pods/
+linux/Podfile.lock
+linux/.symlinks/
+
+# Windows related
+windows/Flutter/Flutter.framework
+windows/Flutter/Flutter.podspec
+windows/Pods/
+windows/Podfile.lock
+windows/.symlinks/
+
+# VS Code related
+.vscode/
+
+# IntelliJ IDEA related
+.idea/
+*.iml
+
+# Other files
+*.log
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Directory for temporary files
+temp/

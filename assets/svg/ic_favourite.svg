@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="favourites" transform="translate(-1.813 5.787)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="50" height="50" transform="translate(1.813 -5.787)" fill="#f79622" opacity="0"/>
+    <g id="favourites_icon" transform="translate(15.814 5.213)">
+      <path id="favourites_icon-2" data-name="favourites_icon" d="M220-791.653V-816.94a2.953,2.953,0,0,1,.888-2.171A2.953,2.953,0,0,1,223.06-820h15.882a2.953,2.953,0,0,1,2.171.888A2.953,2.953,0,0,1,242-816.94v25.287l-11-4.719Zm2.538-3.892L231-799.184l8.462,3.638V-816.94a.5.5,0,0,0-.163-.358.5.5,0,0,0-.358-.163H223.06a.5.5,0,0,0-.358.163.5.5,0,0,0-.163.358Zm0-21.915h0Z" transform="translate(-220.001 819.999)" fill="#333"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="floor_plan_menu" transform="translate(-0.038 0.696)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="54" height="54" transform="translate(0.038 -0.696)" fill="#f79622" opacity="0"/>
+    <g id="Group_19881" data-name="Group 19881" transform="translate(8.038 7.304)">
+      <path id="Path_10295" data-name="Path 10295" d="M4,8.75A4.75,4.75,0,0,1,8.75,4h28.5A4.75,4.75,0,0,1,42,8.75v28.5A4.75,4.75,0,0,1,37.25,42H8.75A4.75,4.75,0,0,1,4,37.25Z" transform="translate(-4 -4)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_10296" data-name="Path 10296" d="M12,4V42" transform="translate(7 -4)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_10297" data-name="Path 10297" d="M4,15H21.234" transform="translate(-4 11.125)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_10298" data-name="Path 10298" d="M12,12H29.234" transform="translate(8.766 7)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_10299" data-name="Path 10299" d="M16,12V29.234" transform="translate(12.5 8.766)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_10300" data-name="Path 10300" d="M16,16h8.617" transform="translate(13.383 12.5)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="heldesk" transform="translate(-1.09 5.876)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="54" height="54" transform="translate(1.09 -5.876)" fill="#f79622" opacity="0"/>
+    <g id="Icon_ionic-ios-help-circle-outline" data-name="Icon ionic-ios-help-circle-outline" transform="translate(4.715 -2.251)">
+      <path id="Path_10405" data-name="Path 10405" d="M23.375,6.067a17.3,17.3,0,1,1-12.24,5.067,17.193,17.193,0,0,1,12.24-5.067m0-2.692a20,20,0,1,0,20,20,20,20,0,0,0-20-20Z" transform="translate(0 0)" fill="#333"/>
+      <path id="Path_10406" data-name="Path 10406" d="M19.721,11.25c3.606,0,6.087,2,6.087,4.875a4.7,4.7,0,0,1-2.7,4.269c-1.673.971-2.24,1.683-2.24,2.913v.76H17.529L17.5,23.24a4,4,0,0,1,2.269-4.231c1.625-.971,2.308-1.587,2.308-2.779a2.334,2.334,0,0,0-2.587-2.067,2.432,2.432,0,0,0-2.577,2.365H13.5C13.567,13.433,15.856,11.25,19.721,11.25ZM17.192,27.731a2.064,2.064,0,1,1,2.058,1.981A2.014,2.014,0,0,1,17.192,27.731Z" transform="translate(3.721 2.894)" fill="#333"/>
+    </g>
+  </g>
+</svg>

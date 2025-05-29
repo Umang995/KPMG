@@ -1,0 +1,7 @@
+<svg id="video_play" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Ellipse_2847" data-name="Ellipse 2847" transform="translate(2 3)" stroke="#707070" stroke-width="1" opacity="0.8">
+    <circle cx="9" cy="9" r="9" stroke="none"/>
+    <circle cx="9" cy="9" r="8.5" fill="none"/>
+  </g>
+  <path id="Icon_awesome-play-circle" data-name="Icon awesome-play-circle" d="M12.563.563a12,12,0,1,0,12,12A12,12,0,0,0,12.563.563Zm5.6,13.161L9.645,18.611a1.163,1.163,0,0,1-1.727-1.016V7.53A1.164,1.164,0,0,1,9.645,6.514l8.516,5.177A1.165,1.165,0,0,1,18.161,13.724Z" transform="translate(-0.563 -0.563)" fill="#fff"/>
+</svg>

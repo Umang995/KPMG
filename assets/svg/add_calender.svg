@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <filter id="Rectangle_5194" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="add_calender" transform="translate(-147 -417.25)">
+    <g transform="matrix(1, 0, 0, 1, 147, 417.25)" filter="url(#Rectangle_5194)">
+      <rect id="Rectangle_5194-2" data-name="Rectangle 5194" width="32" height="32" rx="7" transform="translate(15 15)" fill="#fff"/>
+    </g>
+    <path id="calender" d="M154.388-844.346v-3.139h-3.139v-1.57h3.139v-3.139h1.57v3.139H159.1v1.57h-3.139v3.139Zm-12.5-2.354a1.826,1.826,0,0,1-1.342-.549,1.826,1.826,0,0,1-.549-1.342v-11.913a1.826,1.826,0,0,1,.549-1.342,1.826,1.826,0,0,1,1.342-.549h1.449v-2.213h1.61v2.213h5.836v-2.213h1.57v2.213H153.8a1.826,1.826,0,0,1,1.342.549,1.826,1.826,0,0,1,.549,1.342v6.182a6.389,6.389,0,0,0-.785-.048,6.389,6.389,0,0,0-.785.048v-2H141.57v7.727a.307.307,0,0,0,.1.221.307.307,0,0,0,.221.1h7.154a6.4,6.4,0,0,0,.048.785,4.126,4.126,0,0,0,.177.785Zm-.322-11.188h12.557v-2.616a.307.307,0,0,0-.1-.221.307.307,0,0,0-.221-.1H141.892a.307.307,0,0,0-.221.1.307.307,0,0,0-.1.221Zm0,0v0Z" transform="translate(28.924 1302.86)" fill="#333"/>
+  </g>
+</svg>

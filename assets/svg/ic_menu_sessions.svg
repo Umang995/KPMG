@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="mysessions_profile" transform="translate(-1.813 5.626)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="50" height="50" transform="translate(1.813 -5.626)" fill="#f79622" opacity="0"/>
+    <g id="agenda_icon" transform="translate(11.814 3.374)">
+      <path id="Path_10430" data-name="Path 10430" d="M14.833,33.141h-7.5A4.462,4.462,0,0,1,2.9,28.661V8.38A4.462,4.462,0,0,1,7.333,3.9h20a4.462,4.462,0,0,1,4.433,4.48v5.07a1.1,1.1,0,1,1-2.2,0V8.38A2.26,2.26,0,0,0,27.333,6.1h-20A2.26,2.26,0,0,0,5.1,8.38V28.661a2.26,2.26,0,0,0,2.233,2.28h7.5a1.1,1.1,0,1,1,0,2.2Z" transform="translate(-4 -1.62)" fill="#333"/>
+      <path id="Path_10431" data-name="Path 10431" d="M16,10.86a1.1,1.1,0,0,1-1.1-1.1V3a1.1,1.1,0,0,1,2.2,0V9.76A1.1,1.1,0,0,1,16,10.86Z" transform="translate(4 -3)" fill="#333"/>
+      <path id="Path_10432" data-name="Path 10432" d="M8,10.86a1.1,1.1,0,0,1-1.1-1.1V3A1.1,1.1,0,0,1,9.1,3V9.76A1.1,1.1,0,0,1,8,10.86Z" transform="translate(-1.333 -3)" fill="#333"/>
+      <path id="Path_10433" data-name="Path 10433" d="M20.667,12.1H4A1.1,1.1,0,0,1,4,9.9H20.667a1.1,1.1,0,0,1,0,2.2Z" transform="translate(-4 2.52)" fill="#333"/>
+      <path id="Path_10434" data-name="Path 10434" d="M20.667,28.62a7.861,7.861,0,1,1,7.767-7.86A7.823,7.823,0,0,1,20.667,28.62Zm0-13.52a5.661,5.661,0,1,0,5.567,5.66A5.62,5.62,0,0,0,20.667,15.1Z" transform="translate(2.666 4.591)" fill="#333"/>
+      <path id="Path_10435" data-name="Path 10435" d="M18.833,20.98a1.1,1.1,0,0,1-.783-.328l-.833-.845a1.1,1.1,0,0,1-.317-.772V16.5a1.1,1.1,0,0,1,2.2,0v2.084l.517.524a1.1,1.1,0,0,1-.783,1.872Z" transform="translate(5.333 6.316)" fill="#333"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,200 @@
+name: dreamcast
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.3.2+1
+
+environment:
+  sdk: '>=2.18.2 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,`
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: any
+  get: any
+  shared_preferences: any
+  flutter_svg: ^2.0.10+1
+  #google_fonts: ^6.2.1
+  auto_size_text: any
+  cached_network_image: any
+  flutter_inappwebview: ^6.0.0
+  smooth_page_indicator: any
+  get_storage: ^2.0.3 #its used for store data in local storage
+  image_picker: ^1.1.1 #used for pick image from camera and gallery
+  flutter_rating_bar: ^4.0.1 #rating bar widget.
+  intl: ^0.19.0 #
+  url_launcher: ^6.2.6  #open url to external resource
+  mime: ^1.0.5  #used for upload image to server using multipart  http: ^0.13.5
+  page_view_indicators: ^2.0.0  # its used for page indicator
+  lottie: ^3.1.2   #Lottie Animation Library
+  qr_code_scanner: ^1.0.1   #used for QR scan code
+  permission_handler: ^11.3.1 #Its used for permission take
+  fk_user_agent: ^2.1.0   # its used for get local infomation about device agent
+  firebase_core: ^3.9.0 #connet to firebase service
+  firebase_database: ^11.2.0 #for firebase chat database manage
+  firebase_auth: ^5.3.4
+  firebase_analytics: ^11.3.6
+  firebase_crashlytics: ^4.2.0
+  firebase_messaging: ^15.1.6
+  timezone: ^0.9.0 # used for set timezone
+  flutter_local_notifications: ^17.1.2 #get and show all notification
+  csv: ^6.0.0
+  open_file: ^3.3.2  # open file by file path.
+  add_2_calendar: ^3.0.1  # its used for save the event to native device calendar.
+  country_code_picker: ^3.0.0 #// used for country_codes:
+  internet_connection_checker: ^1.0.0+1 # Manage the internet connection connectivity.
+  flutter_downloader: ^1.11.7
+  external_path: ^1.0.3
+  package_info_plus: ^8.0.0
+  pinput: ^5.0.0
+  image_size_getter: ^2.1.3
+  carousel_slider: any
+  percent_indicator: ^4.2.3
+  share_plus: any
+  #gallery_saver: ^2.3.2
+  flutter_widget_from_html: ^0.15.0
+  camera: ^0.11.0+1
+  firebase_dynamic_links: any
+  qr_flutter: ^4.1.0
+  audioplayers: ^5.0.0
+  file_picker: any
+  video_thumbnail: any
+  scroll_snap_list: ^0.9.1
+  amazon_cognito_identity_dart_2: ^3.6.5
+  connectivity_plus: ^6.0.3
+  awesome_notifications:
+  skeletonizer: ^1.1.2+1
+  image_cropper: ^9.0.0
+  dio: ^4.0.6
+  syncfusion_flutter_pdfviewer: ^27.1.53
+  flutter_snake_navigationbar: any
+  gradient_borders: ^1.0.0
+  signin_with_linkedin:
+  scrollable_positioned_list: ^0.2.3
+  dropdown_button2: ^2.3.9
+  sign_in_with_apple: ^6.1.1
+  simple_gradient_text: ^1.3.0
+  flutter_linkify: any
+  flutter_contacts: ^1.1.9+2
+  readmore: ^3.0.0
+  saver_gallery: ^3.0.6
+  flutter_keyboard_visibility: ^5.0.3
+  video_player: ^2.6.1 #its used for the watch the session streeming
+  webview_flutter: any
+  device_info:
+  app_links:
+  fluttertoast:
+  mobile_scanner: ^6.0.2
+  torch_light:
+  toastification: ^2.3.0
+  focused_menu:
+  flutter_secure_storage: ^9.2.4
+  visibility_detector: ^0.4.0+2
+  image_gallery_saver:
+  auto_size_text_field: ^2.2.4
+  flutter_colorpicker:
+  flutter_image_compress:
+
+
+  image_picker_android:
+  workmanager:
+  widget_zoom:
+
+dependency_overrides:
+  webview_flutter_android: 3.16.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/file/
+    - assets/svg/
+    - assets/animated/
+    - assets/sounds/
+
+  fonts:
+    - family: FigTree
+      fonts:
+        - asset: assets/fonts/figtree/FigTree-Bold.otf
+        - asset: assets/fonts/figtree/FigTree-SemiBold.otf
+        - asset: assets/fonts/figtree/FigTree-Medium.otf
+        - asset: assets/fonts/figtree/FigTree-Regular.otf
+
+    - family: Fester
+      fonts:
+        - asset: assets/fonts/fester/Fester-Bold.otf
+        - asset: assets/fonts/fester/Fester-SemiBold.otf
+        - asset: assets/fonts/fester/Fester-Regular.otf
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

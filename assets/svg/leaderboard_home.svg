@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="leaderboard_menu" transform="translate(0 0)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="34" height="34" transform="translate(0 0)" fill="#f79622" opacity="0"/>
+    <g id="leaderboard_icon" transform="translate(7 1)">
+      <path id="Path_10309" data-name="Path 10309" d="M14.053,17.053,9,17.053A5.053,5.053,0,1,0,14.053,12,5.053,5.053,0,0,0,9,17.053" transform="translate(-3.947 3.158)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_10310" data-name="Path 10310" d="M10,7h6.737" transform="translate(-3.263 -0.263)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_10311" data-name="Path 10311" d="M10,18v6.737l3.368-1.684,3.368,1.684V18" transform="translate(-3.263 7.263)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_10312" data-name="Path 10312" d="M12.737,29.947H9.368A3.368,3.368,0,0,1,6,26.579V6.368A3.368,3.368,0,0,1,9.368,3H22.842A3.368,3.368,0,0,1,26.21,6.368v20.21a3.368,3.368,0,0,1-3.368,3.368H19.474" transform="translate(-6 -3)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

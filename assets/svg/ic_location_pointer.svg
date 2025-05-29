@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="location_pointer" transform="translate(-534.5 -136.171)">
+    <g id="Rectangle_4072" data-name="Rectangle 4072" transform="translate(534.5 136.171)" fill="#fff" stroke="#333" stroke-width="1" opacity="0.996">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="4.5" fill="none"/>
+    </g>
+    <g id="location_arrow" transform="translate(-0.041 -2.206)">
+      <path id="Icon_map-location-arrow" data-name="Icon map-location-arrow" d="M11.487,16.42,9.2,9.6H1.773L16.058,1.581Z" transform="translate(539.769 144.796)"/>
+    </g>
+  </g>
+</svg>

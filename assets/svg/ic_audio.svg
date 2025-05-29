@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="videos" transform="translate(1.692 1.691)">
+    <g id="Rectangle_3988" data-name="Rectangle 3988" transform="translate(-0.692 -0.691)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="22.364" height="22.364" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21.364" height="21.364" fill="none"/>
+    </g>
+    <g id="Group_4770" data-name="Group 4770" transform="translate(-1.692 -1.691)">
+      <path id="Path_13706" data-name="Path 13706" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_13707" data-name="Path 13707" d="M3,17a3,3,0,1,0,3-3,3,3,0,0,0-3,3" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_13708" data-name="Path 13708" d="M13,17a3,3,0,1,0,3-3,3,3,0,0,0-3,3" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_13709" data-name="Path 13709" d="M9,17V4H19V17" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_13710" data-name="Path 13710" d="M9,8H19" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

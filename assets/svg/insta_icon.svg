@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="insta_icon" transform="translate(0 -0.388)">
+    <g id="_294709_circle_twitter_icon" data-name="294709_circle_twitter_icon" transform="translate(0 0.491)">
+      <circle id="Ellipse_2899" data-name="Ellipse 2899" cx="16" cy="16" r="16" transform="translate(0 -0.103)" fill="#fff"/>
+      <g id="_2959748_instagram_photo_share_icon" data-name="2959748_instagram_photo_share_icon" transform="translate(-7 -7.102)">
+        <path id="Path_10425" data-name="Path 10425" d="M26.1,16.306A3.592,3.592,0,0,1,29.694,19.9v6.2A3.592,3.592,0,0,1,26.1,29.694H19.9A3.592,3.592,0,0,1,16.306,26.1V19.9A3.592,3.592,0,0,1,19.9,16.306h6.2M26.1,15H19.9A4.913,4.913,0,0,0,15,19.9v6.2A4.913,4.913,0,0,0,19.9,31h6.2A4.913,4.913,0,0,0,31,26.1V19.9A4.913,4.913,0,0,0,26.1,15Z" fill="#333"/>
+        <path id="Path_10426" data-name="Path 10426" d="M85.346,32a.936.936,0,1,0,.936.936A.936.936,0,0,0,85.346,32Z" transform="translate(-58.078 -14.224)" fill="#333"/>
+        <path id="Path_10427" data-name="Path 10427" d="M42.824,39.776a2.887,2.887,0,1,1-2.885,2.885,2.887,2.887,0,0,1,2.885-2.885m0-1.306a4.193,4.193,0,1,0,2.969,1.225A4.193,4.193,0,0,0,42.824,38.47Z" transform="translate(-19.78 -19.638)" fill="#333"/>
+      </g>
+    </g>
+  </g>
+</svg>

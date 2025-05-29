@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="tourch_off" transform="translate(-194 -145)">
+    <circle id="Ellipse_2913" data-name="Ellipse 2913" cx="18.5" cy="18.5" r="18.5" transform="translate(194 145)" opacity="0.2"/>
+    <g id="Component_44_3" data-name="Component 44 – 3" transform="translate(204 151)">
+      <path id="Icon_metro-power" data-name="Icon metro-power" d="M13.251,0,0,12.478l6.228-.346L3.493,23.184,16.98,9.837H11.088L13.251,0Z" transform="translate(0 0)" fill="#fff"/>
+      <g id="Rectangle_5210" data-name="Rectangle 5210" transform="translate(1.677 2.717) rotate(-38)" fill="#fff" stroke="#5f6481" stroke-width="1" opacity="0">
+        <rect width="1.39" height="21.146" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="2.39" height="22.146" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

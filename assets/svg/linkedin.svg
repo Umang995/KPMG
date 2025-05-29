@@ -1,0 +1,9 @@
+
+    <svg id="linkedin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+      <path id="background" d="M16,2a2,2,0,0,0-2-2H2A2,2,0,0,0,0,2V14a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2Z" fill="#0b65c2" fill-rule="evenodd"/>
+      <g id="shapes" transform="translate(1.75 1.696)">
+        <rect id="rect11" width="2.68" height="8.061" transform="translate(0.158 3.887)" fill="#fff"/>
+        <path id="path13-0" d="M57.516,54.28a1.4,1.4,0,1,0-.035,2.786H57.5a1.4,1.4,0,1,0,.018-2.786Z" transform="translate(-56 -54.28)" fill="#fff"/>
+        <path id="path15" d="M199.358,172.6a2.662,2.662,0,0,0-2.415,1.331v-1.141h-2.679c.036.756,0,8.061,0,8.061h2.679v-4.5a1.832,1.832,0,0,1,.088-.654,1.466,1.466,0,0,1,1.375-.98c.969,0,1.357.739,1.357,1.823v4.313h2.679v-4.623C202.443,173.753,201.121,172.6,199.358,172.6Z" transform="translate(-189.943 -168.903)" fill="#fff"/>
+      </g>
+    </svg>

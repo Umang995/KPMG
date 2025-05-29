@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="like_icon" transform="translate(0.228 0.388)">
+    <rect id="Rectangle_3856" data-name="Rectangle 3856" width="40" height="40" transform="translate(-0.228 -0.388)" fill="#fff" opacity="0"/>
+    <g id="like_icon-2" data-name="like_icon" transform="translate(5.216 5.352)">
+      <path id="XMLID_5_" d="M22.055,11.029H16.976V5.975A1.714,1.714,0,0,0,13.923,4.9L7.669,12.722h0v8.461l2.538,1.692H20.761a1.691,1.691,0,0,0,1.625-1.228l2.107-7.382A2.539,2.539,0,0,0,22.055,11.029Z" transform="translate(-0.036)" fill="none" stroke="#227aee" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <rect id="XMLID_3_" width="5.077" height="11.846" transform="translate(2.556 11.029)" fill="none" stroke="#227aee" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <circle id="XMLID_4_" cx="0.846" cy="0.846" r="0.846" transform="translate(4.249 18.645)" fill="#1877f2"/>
+    </g>
+    <path id="Path_9678" data-name="Path 9678" d="M29.315,17.537H23.876l-.785-1.978V10.741l-1.326-.721H20.3l-5.73,7.518-1.055,1.248v8.959l2.175,1.547H27.659l.893-.652,2.659-8.725V18.227Z" transform="translate(-1.438 -0.736)" fill="#227aee"/>
+  </g>
+</svg>
